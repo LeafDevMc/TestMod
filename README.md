@@ -1,7 +1,7 @@
 # TestMod
 
 
-THIS IS FOR REFERING TO ONLY, IF YOU USE THE TEXTURES GIVE CREDIT
+THIS IS FOR REFERING TO ONLY, IF YOU USE THE TEXTURES GIVE CREDIT. ALTHOUGH YOU CAN STILL PLAY IT!
 
 
 This Is The Test Mod You can refer to this for help with coding minecraft mods
